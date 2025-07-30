@@ -21,6 +21,7 @@ After it done run
 npm run dev
  ``` 
 step 4:
+
 tap on this link
-[https:\\localhost30000](https://localhost:30000
-)
+
+[https:\\localhost30000](https://localhost:30000)
